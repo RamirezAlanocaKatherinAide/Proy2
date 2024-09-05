@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.fix{
+    background-color: aquamarine;
+    background-image: url();
+    width: 600px;
+    height: 700px;
+    position: fixed;
+    top: 20px;
+    left: 15px;
+}
+.c1{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+.oi{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 30px;
+    left: 25px;
+
+}
+.od{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 30px;
+    right: 25px;
+}
+.n{
+
+    background-color: burlywood;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 90px;
+    left: 80px;
+    border-radius: 30px;
+}
+.b{
+    background-color: burlywood;
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    top: 140px;
+    left: 25px;
+
+}
+.pu{
+    background-color: beige;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+.lab{
+    background-color: brown;
+    width: 120px;
+    height: 10px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.c2{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 50px;
+    left: 275px;
+}
+.c3{
+    background-color: blueviolet;
+    width: 300px;
+    height: 280px;
+    position: relative;
+    top: 50px;
+    left: 145px;
+}
+.pe{
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    top: 30px;
+    left: 25px;
+}
+.es{
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    top: 150px;
+    left: 25px;
+}
+.c4{
+    background-color: blueviolet;
+    width: 250px;
+    height: 50px;
+    position: relative;
+    top: 51px;
+    left: 170px;
+}
+.pi{
+    background-color: blueviolet;
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 52px;
+    left: 150px;
+
+}
+
+.pd{
+    background-color: blueviolet;
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: -48px;
+    left: 300px;
+
+}
+.mi{
+    background-color: blueviolet;
+    width: 40px;
+    height: 200px;
+    position: absolute;
+    top: 190px;
+    left: 80px;
+    transform: rotate(150deg);
+}
+.md{
+    background-color: blueviolet;
+    width: 40px;
+    height: 200px;
+    position: absolute;
+    top: 190px;
+    left: 475px;
+    transform: rotate(30deg);
+}
